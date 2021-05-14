@@ -57,15 +57,7 @@ education:
     - degree: BSc in Computer Science
       university: UITM Shah Alam
       time: Now
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-     - degree: Diploma in Computer Science
+     - diploma: Diploma in Computer Science
           university: Universiti Malaysia Pahang
           time: 2017 - 2020
           details: |
