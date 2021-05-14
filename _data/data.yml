@@ -51,13 +51,20 @@ career-profile:
     title: Career Profile
     summary: |
       Currently full-time Web Developer at Rubysoft. 
-      After got a diploma at University Malaysia Pahang, I pursued 
+      After grab a diploma at University Malaysia Pahang, I pursued 
       my passion in software development as part-time students at UITM Shah Alam
 education:
-      degree: BSc in Computer Science
+    - degree: BSc in Computer Science
       university: UiTM Shah Alam
-      time: Now |
-        
+      time: Now
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Web Developer
       time: 2020 - Present
