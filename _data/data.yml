@@ -54,7 +54,7 @@ career-profile:
       After got a diploma at University Malaysia Pahang, I pursued 
       my passion in software development as part-time students at UITM Shah Alam
 education:
-    - degree: BSc in Computer Science
+      degree: BSc in Computer Science
       university: UiTM Shah Alam
       time: Now
       details: |
