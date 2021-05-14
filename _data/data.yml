@@ -87,16 +87,16 @@ experiences:
         Maintaining and update
           - Bullet point
           - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: ekhairat
-        link: "#hook"
-        tagline: "Funeral expenses management system (Final Year Project).
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: ekhairat
+#         link: "#hook"
+#         tagline: "Funeral expenses management system (Final Year Project).
 
 skills:
     title: Skills &amp; Proficiency
