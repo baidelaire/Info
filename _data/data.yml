@@ -54,10 +54,17 @@ career-profile:
       After got a diploma at University Malaysia Pahang, I pursued 
       my passion in software development as part-time students at UITM Shah Alam
 education:
-      degree: Bachelor Degree in Computer Science
-      university: University Malaysia Pahang
-      time: 2020 April - Current
+     - degree: BSc in Computer Science
+      university: UiTM Shah Alam
+      time: Now
       details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
         
 experiences:
     - role: Web Developer
