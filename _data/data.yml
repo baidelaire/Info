@@ -7,69 +7,56 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doeesssss
+    name: Baihaqi Hakim
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: hakimbaihaqi9@gmail.com
+    work email: baihaqi@rubysoft.com
+    phone: 011-61936257
+    website: baidelaire.github.io/info #do not add http://
+    linkedin: Baihaqi Hakim
+    Facebook: Baihaqi Hakim
+    github: muhammad baihaqi hakim
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Malay
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Moderate
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Arabic
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Futsal
         link:
 
-      - item: Snowboarding
+      - item: Listening Music
         link:
 
-      - item: Cooking
+      - item: Sleeping
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently full-time Web Developer at Rubysoft. 
+      After a diploma at University Malaysia Pahang, I pursued 
+      my passion in this industry as part time degree student at UITM Shah Alam
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: UITM Shah Alam
+      time: Now
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
