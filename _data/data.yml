@@ -94,7 +94,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP
+      - name: PHP & MYSQL
         level: 90%
 
       - name: Javascript / jQuery & AJAX
@@ -107,7 +107,7 @@ skills:
         level: 90%
 
       - name: React Native (Mobile)
-        level: 70%
+        level: 60%
         
       - name: Laravel
         level: 40%
