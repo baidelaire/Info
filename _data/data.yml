@@ -42,9 +42,9 @@ sidebar:
         link:
 
       - item: Listening Music
-        link: https://open.spotify.com/user/hakimbaihaqi9?si=eb46cf86595c4e63
+        link: 
 
-      - item: reading
+      - item: Reading
         link:
 
 career-profile:
@@ -97,7 +97,7 @@ skills:
       - name: PHP & MYSQL
         level: 90%
 
-      - name: Javascript / jQuery & AJAX
+      - name: Javascript,jQuery & AJAX
         level: 90%
 
       - name: React JS
