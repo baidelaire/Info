@@ -64,6 +64,10 @@ education:
     - degree: Bachelor In Computer Science (ePJJ)
       university: University Teknologi Mara
       time: 2021 - Now
+      
+      
+      
+      
 
 experiences:
     - role: Web Developer
@@ -83,7 +87,7 @@ experiences:
         Web Development
           - Woocommerce
           - Wordpress
-    - role: Web Developer (Intern)
+    - role: Web Developer (Internship)
       time: 2019 - 2020
       company: INQKA, UITM Shah Alam
       details: |
