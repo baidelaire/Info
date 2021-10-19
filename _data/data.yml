@@ -53,6 +53,17 @@ career-profile:
       Currently full-time Web Developer at Rubysoft. 
       After graduated in diploma Computer Science from University Malaysia Pahang, I pursued 
       my passion in software development as part-time degree students at UITM Shah Alam (ePJJ) .
+      
+education:
+    - degree: SPM
+      university: SAMTTAJ Shah Alam
+      time: 2011 - 2016
+    - degree: Diploma In Computer Science
+      university: University Malaysia Pahang
+      time: 2017 - 2020
+    - degree: Bachelor In Computer Science (ePJJ)
+      university: University Teknologi Mara
+      time: 2020 - Now
 
 experiences:
     - role: Web Developer
@@ -72,7 +83,7 @@ experiences:
         Web Development
           - Woocommerce
           - Wordpress
-    - role: Web Developer
+    - role: Web Developer (Intern)
       time: 2019 - 2020
       company: INQKA, UITM Shah Alam
       details: |
