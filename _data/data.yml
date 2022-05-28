@@ -70,9 +70,9 @@ education:
       
 
 experiences:
-- role: Backend Web Developer
-      company: Kuasa, Kota Damansara
+     - role: Backend Web Developer
       time: 2022 - Now
+      company: Kuasa, Kota Damansara
       details: |
         Backend development
          - PHP
