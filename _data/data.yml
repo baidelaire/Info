@@ -71,7 +71,8 @@ education:
 
 experiences:
 - role: Backend Web Developer
-      company: kuasa.io , Kota Damansara
+      company: Kuasa , Kota Damansara
+      time: 2020 - 2022
       details: |
         Backend development
          - PHP
