@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-time Backend Web Developer at SaleSkip @ FunnelEvo. 
+      Currently full-time Backend Web Developer at kuasa.io @ FunnelEvo. 
       After graduated in diploma Computer Science from University Malaysia Pahang, I pursued 
       my passion in software development as part-time degree students at UITM Shah Alam (ePJJ) .
       
@@ -70,6 +70,15 @@ education:
       
 
 experiences:
+- role: Backend Web Developer
+      time: 2022 - Now
+      company: kuasa.io , Kota Damansara
+      details: |
+        Backend development
+         - PHP
+         - Javascript
+         - API development and integration
+         - CRM and broadcasting
     - role: Web Developer
       time: 2020 - 2021
       company: Rubysoft, Petaling Jaya
@@ -93,7 +102,7 @@ experiences:
       details: |
         Maintaining and update
           - eapm Korsispa System
-          - Accreditation system
+          - Course Accreditation system
 # projects:
 #     title: Projects
 #     intro: >
